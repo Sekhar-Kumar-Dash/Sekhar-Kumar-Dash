@@ -3,28 +3,6 @@
 # 👋 Hi, I'm Sekhar!
 👩🏻‍💻 Student currently pursuing B.tech in Computer Science Engineering<br/>
 
-<details>
-  <summary>
-    <h3>👨‍💻 Issues that were solved by me</h3>
-  </summary>
-  <p>1-Added INSERT, UPDATE, and DELETE methods for the Payment Intents table(https://github.com/mindsdb/mindsdb/pull/8094)</p>
-  <p>2-Fixed an error in sendinBlue integration of mindsDB(https://github.com/mindsdb/mindsdb/pull/8679#event-11586346907)</p>
-  <p>3-Added insert method for email campaigns table(https://github.com/mindsdb/mindsdb/pull/8698)</p>
-  <p>4-Updated documentation for shopify Integration(https://github.com/mindsdb/mindsdb/pull/8437)</p>
-  <p>5-Added update method for Email campaigns table(https://github.com/mindsdb/mindsdb/pull/8210#event-10926026353)</p>
-  <p>6-Tested rayserver ML integration with MindsDB(https://github.com/mindsdb/mindsdb/pull/8187)</p>
-  <p>7-Tested Mendeley app Integration with MindsDB(https://github.com/mindsdb/mindsdb/pull/8220)</p>
-  <p>8-Tested Strava App Integration with MindsDB(https://github.com/mindsdb/mindsdb/pull/8190)</p>
-  <p>9-Tested Jira App Integration with MindsDB(https://github.com/mindsdb/mindsdb/pull/8079)</p>
-  <p>10-fixing: ts-sdk records keploy-testcase even on test mode(https://github.com/keploy/typescript-sdk/pull/86#event-10284778222)</p>
-  <p>11-adding the unittest for wrapped node fetch function and its github action(https://github.com/keploy/typescript-sdk/pull/82)</p>
-  <p>12-added object template(https://github.com/keploy/samples-go/pull/55)</p>
-</details>
-
-
-<!-- GitHub stats from https://github.com/Sekhar-Kumar-Dash/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Sekhar-Kumar-Dash&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,6 +12,63 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
 
+<details>
+  <summary>
+    <h3>👨‍💻 Issues that were solved by me</h3>
+  </summary>
+  
+  <p>1- Added INSERT, UPDATE, and DELETE methods for the Payment Intents table 
+    (<a href="https://github.com/mindsdb/mindsdb/pull/8094">PR #8094</a>)
+  </p>
+
+  <p>2- Fixed an error in sendinBlue integration of mindsDB 
+    (<a href="https://github.com/mindsdb/mindsdb/pull/8679#event-11586346907">PR #8679</a>)
+  </p>
+
+  <p>3- Added insert method for email campaigns table 
+    (<a href="https://github.com/mindsdb/mindsdb/pull/8698">PR #8698</a>)
+  </p>
+
+  <p>4- Updated documentation for Shopify Integration 
+    (<a href="https://github.com/mindsdb/mindsdb/pull/8437">PR #8437</a>)
+  </p>
+
+  <p>5- Added update method for Email campaigns table 
+    (<a href="https://github.com/mindsdb/mindsdb/pull/8210#event-10926026353">PR #8210</a>)
+  </p>
+
+  <p>6- Tested rayserver ML integration with MindsDB 
+    (<a href="https://github.com/mindsdb/mindsdb/pull/8187">PR #8187</a>)
+  </p>
+
+  <p>7- Tested Mendeley app Integration with MindsDB 
+    (<a href="https://github.com/mindsdb/mindsdb/pull/8220">PR #8220</a>)
+  </p>
+
+  <p>8- Tested Strava App Integration with MindsDB 
+    (<a href="https://github.com/mindsdb/mindsdb/pull/8190">PR #8190</a>)
+  </p>
+
+  <p>9- Tested Jira App Integration with MindsDB 
+    (<a href="https://github.com/mindsdb/mindsdb/pull/8079">PR #8079</a>)
+  </p>
+
+  <p>10- Fixing: ts-sdk records keploy-testcase even on test mode 
+    (<a href="https://github.com/keploy/typescript-sdk/pull/86#event-10284778222">PR #86</a>)
+  </p>
+
+  <p>11- Adding the unittest for wrapped node fetch function and its GitHub action 
+    (<a href="https://github.com/keploy/typescript-sdk/pull/82">PR #82</a>)
+  </p>
+
+  <p>12- Added object template 
+    (<a href="https://github.com/keploy/samples-go/pull/55">PR #55</a>)
+  </p>
+</details>
+
+
+<!-- GitHub stats from https://github.com/Sekhar-Kumar-Dash/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=Sekhar-Kumar-Dash&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 
