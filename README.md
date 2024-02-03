@@ -3,6 +3,24 @@
 # 👋 Hi, I'm Sekhar!
 👩🏻‍💻 Student currently pursuing B.tech in Computer Science Engineering<br/>
 
+<details>
+  <summary>
+    <h3>👨‍💻 Issues that were solved by me</h3>
+  </summary>
+  <p>1-Added INSERT, UPDATE, and DELETE methods for the Payment Intents table(https://github.com/mindsdb/mindsdb/pull/8094)</p>
+  <p>2-Fixed an error in sendinBlue integration of mindsDB(https://github.com/mindsdb/mindsdb/pull/8679#event-11586346907)</p>
+  <p>3-Added insert method for email campaigns table(https://github.com/mindsdb/mindsdb/pull/8698)</p>
+  <p>4-Updated documentation for shopify Integration(https://github.com/mindsdb/mindsdb/pull/8437)</p>
+  <p>5-Added update method for Email campaigns table(https://github.com/mindsdb/mindsdb/pull/8210#event-10926026353)</p>
+  <p>6-Tested rayserver ML integration with MindsDB(https://github.com/mindsdb/mindsdb/pull/8187)</p>
+  <p>7-Tested Mendeley app Integration with MindsDB(https://github.com/mindsdb/mindsdb/pull/8220)</p>
+  <p>8-Tested Strava App Integration with MindsDB(https://github.com/mindsdb/mindsdb/pull/8190)</p>
+  <p>9-Tested Jira App Integration with MindsDB(https://github.com/mindsdb/mindsdb/pull/8079)</p>
+  <p>10-fixing: ts-sdk records keploy-testcase even on test mode(https://github.com/keploy/typescript-sdk/pull/86#event-10284778222)</p>
+  <p>11-adding the unittest for wrapped node fetch function and its github action(https://github.com/keploy/typescript-sdk/pull/82)</p>
+  <p>12-added object template(https://github.com/keploy/samples-go/pull/55)</p>
+</details>
+
 
 <!-- GitHub stats from https://github.com/Sekhar-Kumar-Dash/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Sekhar-Kumar-Dash&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -16,20 +34,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
 
-<details>
- <summary><h3>👨‍💻 Issues that were solved by me</h3></summary>
- 1-Added INSERT, UPDATE, and DELETE methods for the Payment Intents table(https://github.com/mindsdb/mindsdb/pull/8094)
- 2-Fixed an error in sendinBlue integration of mindsDB(https://github.com/mindsdb/mindsdb/pull/8679#event-11586346907)
- 3-Added insert method for email campaigns table(https://github.com/mindsdb/mindsdb/pull/8698)
- 4-Updated documentation for shopify Integration(https://github.com/mindsdb/mindsdb/pull/8437)
- 5-Added update method for Email campaigns table(https://github.com/mindsdb/mindsdb/pull/8210#event-10926026353)
- 6-Tested rayserver ML integration with MindsDB(https://github.com/mindsdb/mindsdb/pull/8187)
- 7-Tested Mendeley app Integration with MindsDB(https://github.com/mindsdb/mindsdb/pull/8220)
- 8-Tested Strava App Integration with MindsDB(https://github.com/mindsdb/mindsdb/pull/8190)
- 9-Tested Jira App Integration with MindsDB(https://github.com/mindsdb/mindsdb/pull/8079)
- 10-fixing: ts-sdk records keploy-testcase even on test mode(https://github.com/keploy/typescript-sdk/pull/86#event-10284778222)
- 11-adding the unittest for wrapped node fetch function and its github action(https://github.com/keploy/typescript-sdk/pull/82)
- 12-added object template(https://github.com/keploy/samples-go/pull/55)
 
 
 
