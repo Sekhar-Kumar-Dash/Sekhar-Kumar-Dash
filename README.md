@@ -16,11 +16,9 @@ I leverage my skills to contribute meaningfully to open source projects, and my 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
-
-<details>
-  <summary>
-    <h3>👨‍💻 Issues that were solved by me</h3>
-  </summary>
+ 
+  # 👨‍💻 Issues that were solved by me
+ 
   
   <p>1- Added INSERT, UPDATE, and DELETE methods for the Payment Intents table 
     (<a href="https://github.com/mindsdb/mindsdb/pull/8094">PR #8094</a>)
@@ -69,7 +67,7 @@ I leverage my skills to contribute meaningfully to open source projects, and my 
   <p>12- Added object template 
     (<a href="https://github.com/keploy/samples-go/pull/55">PR #55</a>)
   </p>
-</details>
+
 
 
 <!-- GitHub stats from https://github.com/Sekhar-Kumar-Dash/github-readme-stats -->
