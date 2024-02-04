@@ -1,7 +1,12 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Sekhar!
-👩🏻‍💻 Student currently pursuing B.tech in Computer Science Engineering<br/>
+👩🏻‍💻
+Currently pursuing a B.Tech in Computer Science, I am a dedicated student passionate about software development and web development. I actively contribute to open source projects and share my insights through articles on Hashnode during my free time.
+
+My journey includes hands-on experiences, internships at Amazon and Civo, and engagement with startups like Swiggy and ShareChat. I am committed to continuous learning and stay updated on the latest in technology.
+
+I leverage my skills to contribute meaningfully to open source projects, and my articles on Hashnode serve as a platform to share my experiences and insights. Eager to apply my knowledge to real-world scenarios, I am open to new opportunities and challenges in the dynamic field of computer science.<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
